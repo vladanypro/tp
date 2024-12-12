@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'GillSansMT-UltraBold';
+  src: url('GillSansMT-UltraBold.eot?#iefix') format('embedded-opentype'),  url('GillSansMT-UltraBold.woff') format('woff'), url('GillSansMT-UltraBold.ttf')  format('truetype'), url('GillSansMT-UltraBold.svg#GillSansMT-UltraBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ubuntu-regular - latin_cyrillic */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: url('ubuntu-v20-latin_cyrillic-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+  url('ubuntu-v20-latin_cyrillic-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('ubuntu-v20-latin_cyrillic-regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('ubuntu-v20-latin_cyrillic-regular.woff') format('woff'), /* Modern Browsers */
+  url('ubuntu-v20-latin_cyrillic-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('ubuntu-v20-latin_cyrillic-regular.svg#Ubuntu') format('svg'); /* Legacy iOS */
+}
+/* ubuntu-700 - latin_cyrillic */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  src: url('ubuntu-v20-latin_cyrillic-700.eot'); /* IE9 Compat Modes */
+  src: local(''),
+  url('ubuntu-v20-latin_cyrillic-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('ubuntu-v20-latin_cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
+  url('ubuntu-v20-latin_cyrillic-700.woff') format('woff'), /* Modern Browsers */
+  url('ubuntu-v20-latin_cyrillic-700.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('ubuntu-v20-latin_cyrillic-700.svg#Ubuntu') format('svg'); /* Legacy iOS */
+}
